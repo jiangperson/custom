@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.customer.Sys" stylesheets="@../customer/css/style.css">
+   <children>
+      <Button fx:id="paymentsButton" layoutX="226.0" layoutY="242.0" mnemonicParsing="false" prefHeight="88.0" prefWidth="134.0" text="账单信息查询" />
+      <Button fx:id="customerButton" layoutX="225.0" layoutY="63.0" mnemonicParsing="false" prefHeight="88.0" prefWidth="134.0" text="客户信息查询" />
+   </children>
+</AnchorPane>

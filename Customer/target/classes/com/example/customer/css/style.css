@@ -1,0 +1,5 @@
+.root {
+    -fx-background-image: url('../images/customer.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+}
